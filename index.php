@@ -11,7 +11,7 @@
     <div class="container">
 
         <div class="row p-5">
-            <div class="card p-0">
+            <div class="card p-0 shadow">
                 <div class="card-body p-0">
                     <h1 class="card-title text-center p-3">Form di Censura</h1>
                     <hr>
